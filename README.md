@@ -6,7 +6,7 @@ I enjoy solving problems, always striving to find a better solution and contribu
 ## Fesapş, Kéblağ si nequbğe 👋
 Şüfes, se Abed siše, Ḱfar Ḱamem sışepsewı, Programatiḱere Research ofxemre saxelejahı. <br>
 Se Universitym sışége yawjıre yiĺesım sıxet, arti Beer Sheva sıdesı thamafem yiqućge.   
-Adıǵabzem yeğepxiğo procéḱtxeme sapılejehne si net, zegorege collaboration şüfayeme ye gupşısexe şüi'aexeme mésaj kısfejüğah!   
+Adıǵabzem yeğepxiğo procéḱtxeme sapılejehne si net, zegorege collaboration şüfayeme ye gupşısexe şüi'aexeme mésaj kısfejüğeh!   
 Thaşüeyğepsew
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&author=21,May,1864&theme=light&quote=Kıtşeğupşıpşığep,Kıtşeğupşıtep)](https://github.com/piyushsuthar/github-readme-quotes)  
