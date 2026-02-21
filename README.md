@@ -5,7 +5,7 @@ I enjoy solving problems, always striving to find a better solution and contribu
 
 ## Fesapş, Kéblağ si nequbğe 👋
 Şüfes, se Abed siše, Ḱfar Ḱamem sışepsewı, Programatiḱere Research ofxemre saxelejahı. <br>
-Se Universitym sışége yiĺes yawjırem sixet, arti Beer Sheva sıdesı thamafem yiqućge.   
+Se Universitym sışége yawjıre yiĺesım sıxet, arti Beer Sheva sıdesı thamafem yiqućge.   
 Adıǵabzem yeğepxiğo procéḱtxeme sapılejehne si net, zegorege collaboration şüfayeme ye gupşısexe şüi'aexeme mésaj kısfejüğah!   
 Thaşüeyğepsew
 
