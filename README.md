@@ -1,5 +1,7 @@
 ## Hi there 👋
 Zıgore sewpĺequı
+Hello my name is Abed, I am a final year Software & Information Systems Engineering student at Ben-Gurion University of the Negev, also working as an R&D Software Developer in the Cyber-Security domains.
+
 <!--
 **AbedShowgan/AbedShowgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
