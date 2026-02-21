@@ -9,7 +9,7 @@ Se Universitym sışége yawjıre yiĺesım sıxet, arti Beer Sheva sıdesı tha
 Adıǵabzem yeğepxiğo procéḱtxeme sapılejehne si nét, zegorege collaboration şüfayeme ye gupşısexe şüi'aexeme mésaj kısfejüğeh!   
 Thaşüeyğepsew
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&author=21,May,1864&theme=light&quote=Kıtşeğupşıpşığep,Kıtşeğupşıtep)](https://github.com/piyushsuthar/github-readme-quotes)  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&author=21,May,1864&theme=light&quote=Kıtşığupşığep,Kıtşığupşıtep)](https://github.com/piyushsuthar/github-readme-quotes)  
 
 [![My Image](remember-genocide-maher.png)](https://circassian-genocide.org/)
 [![My Image](Circassia-1750.png)](https://en.wikipedia.org/wiki/Circassia)
