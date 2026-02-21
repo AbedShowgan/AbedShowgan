@@ -10,7 +10,12 @@ Adıǵabzem yeğepxiğo procéḱtxeme sapılejehne si nét, zegorege collaborat
 Thaşüeyğepsew
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&author=21,May,1864&theme=light&quote=Kıtşığupşığep,Kıtşığupşıtep)](https://github.com/piyushsuthar/github-readme-quotes)  
+### ***АДЫГЭ ЛЪЭПКЪ ГЪЭК1УЭД*** 
 
-[![My Image](remember-genocide-maher.png)](https://circassian-genocide.org/)
+[![My Image](remember-genocide-maher.png)](https://circassian-genocide.org/)  
+ *Махэр Абазэ сурэтэр ий - credit to abaza738*
+ <br>
+### ***ЧЕРКЕСИЯ - АДЫГЭ ХЭКУ***  
 [![My Image](Circassia-1750.png)](https://en.wikipedia.org/wiki/Circassia)
 
+### **"Псэм ипэ напэ"  - Адыгэ гущэӏэжъ**
