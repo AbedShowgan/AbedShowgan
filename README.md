@@ -11,7 +11,6 @@ Thaşüeyğepsew
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&author=21,May,1864&theme=light&quote=Kıtşeğupşıpşığep,Kıtşeğupşıtep)](https://github.com/piyushsuthar/github-readme-quotes)  
 
-[![Genocide](remember-genocide-maher.png)]([https://your-website.com](https://circassian-genocide.org/))
-
+[![My Image](remember-genocide-maher.png)](https://circassian-genocide.org/)
 [![My Image](Circassia-1750.png)](https://en.wikipedia.org/wiki/Circassia)
 
