@@ -1,4 +1,4 @@
-## Hi there, welcome to my page 👋  
+## Hello, welcome to my page 👋  
 Hello my name is Abed, I am a final year Software & Information Systems Engineering student at Ben-Gurion University of the Negev, also working as an R&D Software Developer in the Cyber-Security domains.  .   
 I enjoy solving problems, always striving to find a better solution and contribute as much as possible to my fields of work.  
 
