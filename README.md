@@ -3,7 +3,7 @@ Hello my name is Abed, I am a final year Software & Information Systems Engineer
 I enjoy solving problems, always striving to find a better solution and contribute as much as possible to my fields of work.  
 
 ## Fesapş, Kéblağ si nequbğe 👋
-Se siše Abed, Ḱfar Ḱamem sışepsewı, <br>
+Se siše Abéd, Ḱfar Ḱamem sışepsewı, <br>
 BGU Universitem sışége "Software & Information Systems Engineering" yawjıre yiĺesım sıxet aş riğuso program ğepsınre txınre ofxer selejıx.
 
 ### ***ADİǴE ĹEPK ĞEQOD - АДЫГЭ ЛЪЭПКЪ ГЪЭК1УЭД*** 
