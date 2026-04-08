@@ -40,7 +40,7 @@ BGU Universitem sışége "Software & Information Systems Engineering" yawjıre 
 <br>
 
 A full-stack academic web platform developed for the students of Kfar Kama, with the support of the Local Council of Kfar Kama. Designed to allow users to create, edit, and share notes and files with peers, fostering collaboration and knowledge-sharing among students and academics.
-
+- **Link:** https://noteshare.live/  <br>
 **Tech Stack:** Java · Spring Boot · RESTful API · Thymeleaf · HTML · CSS · Google Cloud Engine
 
 **Key Features:**
@@ -54,11 +54,12 @@ A full-stack academic web platform developed for the students of Kfar Kama, with
 ---
 
 <details>
-<summary><b> The Circassian Genocide</b> — Memorial Website</summary>
+<summary><b> The Circassian Genocide </b> — Memorial Website</summary>
 <br>
 
-A memorial website developed in honor of the victims of the Circassian Genocide (1763–1864), during which over 1,500,000 ethnic Circassians were killed by the Russian Empire and forcibly expelled from their homeland. Built to preserve memory and raise awareness of this historical tragedy.
 
+A memorial website developed in honor of the victims of the Circassian Genocide (1763–1864), during which over 1,500,000 ethnic Circassians were killed by the Russian Empire and forcibly expelled from their homeland. Built to preserve memory and raise awareness of this historical tragedy.
+- **Link:** https://circassian-genocide.org/  <br>
 **Tech Stack:** Vue.js · Node.js
 
 </details>
